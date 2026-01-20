@@ -43,7 +43,7 @@ class WhoAmI:
         # And many more to come 🚀
  ```
 ### 🌱 What do I do and What have I done? 
-- Transactional Analytics Scholar at Bradescard Bank, working with data-driven financial insights
+- Transactional Analytics Intern at Bradescard Bank, working with data-driven financial insights
 - Academic tutor in Linear Algebra, Numerical Linear Algebra, Probability & Statistics, and Multivariable Differential Calculus
 - Developed classification and regression projects, applying machine learning techniques to real-world data
 - Representative of the Data Science program in the Jesuit Universities Agreement 2025
